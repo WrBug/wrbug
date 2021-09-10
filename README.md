@@ -2,9 +2,7 @@
 
 Android 开发，专业写bug
 
-**杭州有赞大量招聘Android、iOS工程师和实习生(22/23毕业)，有意向的可以加我联系方式**
-
-QQ：75376632
+邮箱：iwrbug@gmail.com
 
 
 
