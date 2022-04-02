@@ -1,9 +1,9 @@
 ### WrBug
 
-Android 开发，专业写bug
+欧科云链大量校招、社招客户端hc，全国分布式办公,[更多岗位查看](https://app.mokahr.com/recommendation-apply/okgroup/4335?sharePageId=1212337&recommendCode=NTAKwe7&codeType=1&code=001m1JFa1EJOUC0aimHa1liVTJ1m1JFx&state=3#/recommendation/page/1212337)，欢迎投递简历,
 
+wechat：iwrbug
 邮箱：iwrbug@gmail.com
-
 
 
 |  网址   | 简介 |
